@@ -1,0 +1,14 @@
+Javascript
+
+JavaScript Tutorial for Beginners -
+https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4
+
+
+Commands and Shortcuts
+
+1. to run a js file, navigate to that file in cmd and then use
+	node<space><filename.js>
+2. to find node js version
+	node --version
+3. Ctrl + L --> to clear terminal in VS Code
+4. for console.log() --> type log and click on suggestion
